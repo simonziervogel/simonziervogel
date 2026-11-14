@@ -5,8 +5,6 @@ Working student software developer (Java, Spring Boot, PostgreSQL, Docker).
 
 Interested in quantitative finance and the systems that make trading strategies work in production.
 
-**Currently building:** [Kalshi Paper Trading Bot](https://github.com/simonziervogel/trading-bot) — four independent trading strategies on prediction markets, with out-of-sample validated backtests and an explicit no-lookahead guarantee across all engines.
-
 📍 Munich, Germany
 
 <!--
